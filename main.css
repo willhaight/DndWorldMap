@@ -213,3 +213,9 @@ body {
     cursor: pointer;
     /* Add other necessary styles */
 }
+
+#selectedImage {
+    min-width: 50em;
+    border: solid #63297c .4em;
+    border-radius: 8px;
+}
