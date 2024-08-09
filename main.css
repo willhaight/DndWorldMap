@@ -176,7 +176,8 @@ body {
 
 .controls,
 #exitButton,
-#imageSelector {
+#imageSelector,
+.list-item {
     cursor: pointer;
 }
 
